@@ -272,7 +272,7 @@ export const Questions = () => {
               <a href="https://github.com/Onksami?tab=repositories">https://github.com/Onksami?tab=repositories</a> </p>
               <br /> 
 
-              <p>To reach this project in live : <a href="vercel link here">vercel link here</a> </p>
+              <p>To reach this project in live : <a href="https://backend-assignment-jet.vercel.app/">https://backend-assignment-jet.vercel.app/</a> </p>
 
               
 
