@@ -266,22 +266,28 @@ export const Questions = () => {
               <br />
 
               <p>
-                My GitHub :{" "}
+               <b> GitHub repo's of this project :</b> {" "}
+                <a href="https://github.com/Onksami/backend-assignment">
+                https://github.com/Onksami/backend-assignment
+                </a>{" "}
+              </p>
+
+              <p>
+               <b> My GitHub : </b>{" "}
                 {socialprofils.github && (
                   <a href={socialprofils.github}>
                     {" "}
                     <FaGithub />{" "}
                   </a>
                 )}
-                <br />
+
                 <a href="https://github.com/Onksami?tab=repositories">
                   https://github.com/Onksami?tab=repositories
                 </a>{" "}
               </p>
-              <br />
 
               <p>
-                To reach this project in live :{" "}
+                <b>To reach this project in live server: </b>{" "}
                 <a href="https://backend-assignment-jet.vercel.app/">
                   https://backend-assignment-jet.vercel.app/
                 </a>{" "}
